@@ -626,44 +626,21 @@
                     <span class="alt-font sub-title"><span class="me-2">//</span>Latest News<span class="ms-2">//</span></span>
                     <h2>Read our Latest news are <span class="text-primary">on top all times</span></h2>
                 </div>
-                <!-- <div class="row">
-                    <div class="col-md-12 col-lg-4 mb-1-6 mb-lg-0">
-                        <div class="card card-style2 bg-img rounded h-100" data-background="img/blog/blog-01.jpg">
+                 <div class="row" style="height:500px;">
+
+@foreach($posts as $post)
+                    <div class="col-md-4 col-lg-4" >
+
+
+                        <div class="card card-style2 bg-img cover-background rounded h-100" data-background="{{ asset('storage/' . $post->image) }}">
                             <div class="card-body">
-                                <h6 class="text-white font-weight-500 mb-3 alt-font"><span class="me-2">//</span>Web Development</h6>
-                                <h3 class="h4 mb-0"><a href="blog-details.html" class="text-white secondary-hover">Visual Identity System Is More Memorable.</a></h3>
+                                <h6 class="mb-3 text-white font-weight-500 alt-font"><span class="me-2">//</span>Admin</h6>
+                                <h3 class="h4 mb-0"><a href="{{ route('post.show', $post->id)}}" class="text-white secondary-hover">{{ $post->title }}</a></h3>
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-12 col-lg-4 col-md-12">
-                        <div class="row">
-                            <div class="col-sm-6 col-lg-12 mb-1-6">
-                                <div class="card card-style2 bg-img cover-background rounded min-height-250" data-background="img/blog/blog-02.jpg">
-                                    <div class="card-body">
-                                        <h6 class="text-white font-weight-500 mb-3 alt-font"><span class="me-2">//</span>Artifical Intelligence</h6>
-                                        <h3 class="h5 mb-0"><a href="blog-details.html" class="text-white secondary-hover">Planning Your Online Business Goals.</a></h3>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-sm-6 col-lg-12 mb-1-6 mb-lg-0">
-                                <div class="card card-style2 bg-img cover-background rounded min-height-250" data-background="img/blog/blog-03.jpg">
-                                    <div class="card-body">
-                                        <h6 class="text-white font-weight-500 mb-3 alt-font"><span class="me-2">//</span>IT Services</h6>
-                                        <h3 class="h5 mb-0"><a href="blog-details.html" class="text-white secondary-hover">Consulted Admitting Is Power Acuteness.</a></h3>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-12 col-lg-4">
-                        <div class="card card-style2 bg-img cover-background rounded h-100" data-background="img/blog/blog-04.jpg">
-                            <div class="card-body">
-                                <h6 class="mb-3 text-white font-weight-500 alt-font"><span class="me-2">//</span>Digital Technology</h6>
-                                <h3 class="h4 mb-0"><a href="blog-details.html" class="text-white secondary-hover">Why Organisations Want an Analytics Platform.</a></h3>
-                            </div>
-                        </div>
-                    </div>
-                </div> -->
+                @endforeach
+                </div>
             </div>
         </section>
 
