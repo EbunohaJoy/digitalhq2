@@ -12,7 +12,7 @@ return [
         'defaults'       => [
             'title' => "Website Designer Nigeria | Web Design & Branding Services in Nigeria",
             'titleBefore'  => false, // Put defaults.title before page title, like 'It's Over 9000! - Dashboard'
-            'description'  => 'For those who helped create the Genki Dama', // set false to total remove
+            'description' => 'We offer website design, e-commerce, UI/UX, mobile app design, and branding services for businesses in Nigeria. Get a modern, mobile-friendly website today.',
             'separator'    => ' - ',
             'keywords'     => [],
             'canonical'    => false, // Set to null or 'full' to use Url::full(), set to 'current' to use Url::current(), set false to total remove
@@ -37,8 +37,9 @@ return [
          * The default configurations to be used by the opengraph generator.
          */
         'defaults' => [
-            'title'       => 'Over 9000 Thousand!', // set false to total remove
-            'description' => 'For those who helped create the Genki Dama', // set false to total remove
+            'title' => 'Website Designer Nigeria | Web Design & Branding Services in Nigeria', // set false to total remove
+            'titleBefore' => false, // Put defaults.title before page title, like 'It's
+            'description' => 'Top-rated web design & branding agency in Nigeria helping small businesses build an online presence.',
             'url'         => false, // Set null for using Url::current(), set false to total remove
             'type'        => false,
             'site_name'   => false,
@@ -59,8 +60,8 @@ return [
          * The default configurations to be used by the json-ld generator.
          */
         'defaults' => [
-            'title'       => 'Over 9000 Thousand!', // set false to total remove
-            'description' => 'For those who helped create the Genki Dama', // set false to total remove
+            'title' => 'Web Design & Branding Agency Nigeria - websitedesignernigeria.com.ng',
+            'description' => 'We provide custom website solutions, e-commerce platforms, UI/UX, and mobile app design for Nigerian businesses.',
             'url'         => false, // Set to null or 'full' to use Url::full(), set to 'current' to use Url::current(), set false to total remove
             'type'        => 'WebPage',
             'images'      => [],

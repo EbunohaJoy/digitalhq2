@@ -32,7 +32,7 @@
                                 <div class="col-lg-12 mb-5">
                                     <article class="card card-style10">
                                         <div class="image-box">
-                                            <img src="{{ asset('storage/' . $post->image) }}" alt="...">
+                                            <img src="{{ asset('storage/' . $post->image) }}" alt="Professional Website Design in Nigeria">
                                             <div class="date">
                                                 <a href="#!">{{ $post->created_at->format('M') }}</a>
                                                 <a href="#!">{{ $post->created_at->format('d') }}</a>

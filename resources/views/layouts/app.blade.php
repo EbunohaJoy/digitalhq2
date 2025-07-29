@@ -28,6 +28,10 @@
 
     <!-- theme core css -->
     <link href="{{ asset('css/styles.css') }}" rel="stylesheet">
+    {!! SEOMeta::generate() !!}
+    {!! OpenGraph::generate() !!}
+
+    <!-- custom css -->
 
 </head>
 
@@ -98,7 +102,7 @@
                                             <img id="logo" src="images/logo.png" alt="logo">
 
                                         </a> -->
-                                        <img src="{{ asset('images/logo.png') }}" alt="" style="width: 100px; height: 50px;">
+                                        <img src="{{ asset('images/logo.png') }}" alt="Professional Website Design in Nigeria" style="width: 100px; height: 50px;">
 
                                         <!-- end logo -->
                                     </div>

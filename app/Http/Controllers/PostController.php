@@ -14,9 +14,14 @@ class PostController extends Controller
 }
 
 
-public function showfullpost($id)
+// ph
+
+
+
+
+public function showfullpost($slug)
 {
-    $post = Post::findOrFail($id);
+    $post = Post::where('slug', $slug)->firstOrFail();
     return view('blogdetails', compact('post'));
 }
 }

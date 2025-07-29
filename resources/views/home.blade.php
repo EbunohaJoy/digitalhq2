@@ -80,7 +80,7 @@
                             <div class="flip-box-inner">
                                 <div class="flip-box-front">
                                     <div class="d-table-cell align-middle">
-                                        <img class="mb-4" src="images/icon-01.png" alt="...">
+                                        <img class="mb-4" src="images/icon-01.png" alt="Professional Website Design in Nigeria">
                                         <h4 class="mb-0 font-weight-500">Website design & Management</h4>
                                     </div>
                                 </div>
@@ -100,7 +100,7 @@
                             <div class="flip-box-inner">
                                 <div class="flip-box-front">
                                     <div class="d-table-cell align-middle">
-                                        <img class="mb-4" src="images/icon-02.png" alt="...">
+                                        <img class="mb-4" src="images/icon-02.png" alt="Professional Website Design in Nigeria">
                                         <h4 class="mb-0 font-weight-500">Mobile App Development</h4>
                                     </div>
                                 </div>
@@ -119,7 +119,7 @@
                             <div class="flip-box-inner">
                                 <div class="flip-box-front">
                                     <div class="d-table-cell align-middle">
-                                        <img class="mb-4" src="images/icon-03.png" alt="...">
+                                        <img class="mb-4" src="images/icon-03.png" alt="Professional Website Design in Nigeria">
                                         <h4 class="mb-0 font-weight-500">UI/UX Design</h4>
                                     </div>
                                 </div>
@@ -138,7 +138,7 @@
                             <div class="flip-box-inner">
                                 <div class="flip-box-front">
                                     <div class="d-table-cell align-middle">
-                                        <img class="mb-4" src="images/icon-04.png" alt="...">
+                                        <img class="mb-4" src="images/icon-04.png" alt="Professional Website Design in Nigeria">
                                         <h4 class="mb-0 font-weight-500">Content & Graphics Design</h4>
                                     </div>
                                 </div>
@@ -166,12 +166,12 @@
                             <div class="row g-0 align-items-center">
                                 <div class="col-8">
                                     <div class="image1">
-                                        <img src="images/code.jpg" alt="...">
+                                        <img src="images/code.jpg" alt="Professional Website Design in Nigeria">
                                     </div>
                                 </div>
                                 <div class="col-4">
                                     <div class="image2">
-                                        <img src="images/code2.jpg" alt="...">
+                                        <img src="images/code2.jpg" alt="Professional Website Design in Nigeria">
                                     </div>
                                 </div>
                             </div>
@@ -240,7 +240,7 @@
                             <div class="service-carousel owl-carousel owl-theme">
                                 <div class="card card-style1">
                                     <div class="card-body">
-                                        <img src="images/webdev.jpg" alt="...">
+                                        <img src="images/webdev.jpg" alt="Professional Website Design in Nigeria">
                                         <div class="service-inner">
                                             <div class="content">
                                                 <a href="expert-and-professional.html"><h4>Website Design</h4></a>
@@ -254,7 +254,7 @@
                                 </div>
                                 <div class="card card-style1">
                                     <div class="card-body">
-                                        <img src="images/mobileapp.jpg" alt="...">
+                                        <img src="images/mobileapp.jpg" alt="Professional Website Design in Nigeria">
                                         <div class="service-inner">
                                             <div class="content">
                                                 <a href="risk-management.html"><h4>Mobile App Development</h4></a>
@@ -268,7 +268,7 @@
                                 </div>
                                 <div class="card card-style1">
                                     <div class="card-body">
-                                        <img src="images/ui-ux.jpg" alt="...">
+                                        <img src="images/ui-ux.jpg" alt="Professional Website Design in Nigeria">
                                         <div class="service-inner">
                                             <div class="content">
                                                 <a href="cyber-security.html"><h4>UI/UX</h4></a>
@@ -282,7 +282,7 @@
                                 </div>
                                 <div class="card card-style1">
                                     <div class="card-body">
-                                        <img src="images/graphics.jpg" alt="...">
+                                        <img src="images/graphics.jpg" alt="Professional Website Design in Nigeria">
                                         <div class="service-inner">
                                             <div class="content">
                                                 <a href="analytic-solutions.html"><h4>Graphics Design</h4></a>
@@ -296,7 +296,7 @@
                                 </div>
                                 <div class="card card-style1">
                                     <div class="card-body">
-                                        <img src="images/social.jpg" alt="...">
+                                        <img src="images/social.jpg" alt="Professional Website Design in Nigeria">
                                         <div class="service-inner">
                                             <div class="content">
                                                 <a href="machine-learning.html"><h4>Social Media Management</h4></a>
@@ -310,7 +310,7 @@
                                 </div>
                                 <div class="card card-style1">
                                     <div class="card-body">
-                                        <img src="images/service-06.jpg" alt="...">
+                                        <img src="images/service-06.jpg" alt="Professional Website Design in Nigeria">
                                         <div class="service-inner">
                                             <div class="content">
                                                 <a href="product-and-design.html"><h4>Product & Design</h4></a>
